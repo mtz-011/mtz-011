@@ -1,38 +1,86 @@
-# 👋 Olá! Eu sou Matheus
+# 🏁 Matheus Alves Ribeiro
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+### `ADS Student | Developer in Progress | Car Enthusiast`
 
-💻 Atualmente estou no 1º semestre, aprendendo programação,
-desenvolvimento web e fundamentos de tecnologia.
-
-## 🚀 Sobre mim
-
-- 🎓 Estudante de ADS
-- 📚 Atualmente focado nos fundamentos da programação
-- 💻 Criando meus primeiros projetos
-- 🌱 Sempre buscando aprender algo novo
-- 🎯 Objetivo: evoluir como desenvolvedor
-
-## 🛠️ Tecnologias que estou estudando
-
-- HTML
-- CSS
-- JavaScript
-- Python
-- Git
-- GitHub
-- SQL
-
-## 📂 Projetos
-
-Aqui você encontrará meus projetos acadêmicos,
-projetos pessoais e exercícios desenvolvidos durante minha jornada.
-
-## 📈 Minha evolução
-
-Estou utilizando este GitHub para registrar minha evolução
-durante a faculdade e construir meu portfólio.
+> 🚗 Transformando ideias em código, um projeto por vez.
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+## 🔧 ABOUT ME
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+📚 Atualmente no **1º semestre**
+💻 Construindo meus primeiros projetos e aprendendo os fundamentos da programação.
+
+Assim como um carro começa pelo motor, meu desenvolvimento começa pelos fundamentos.
+
+**Objetivo:** aprender, construir e evoluir constantemente. 🏎️
+
+---
+
+## 🏎️ MY GARAGE
+
+Projetos que estou desenvolvendo durante minha jornada:
+
+| Projeto                | Tecnologia | Status                |
+| ---------------------- | ---------- | --------------------- |
+| 🧮 Calculadora         | JavaScript | 🔧 Em desenvolvimento |
+| 🌐 Meu primeiro site   | HTML + CSS | ✅ Concluído           |
+| 🚘 Sistema de cadastro | Python     | 🔧 Em desenvolvimento |
+| 🗄️ Banco de dados     | SQL        | 📚 Estudando          |
+
+---
+
+## ⚙️ TECH STACK
+
+### 🔩 Atualmente estudando
+
+`HTML` `CSS` `JavaScript` `Python` `SQL`
+
+### 🛠️ Ferramentas
+
+`Git` `GitHub` `VS Code`
+
+---
+
+## 🏁 MY JOURNEY
+
+```text
+2026
+│
+├── 🎓 Início de ADS
+│
+├── 🔧 Fundamentos da programação
+│
+├── 💻 Primeiros projetos
+│
+└── 🏎️ Evoluindo como desenvolvedor
+```
+
+> **"Não preciso estar no fim da pista.
+> Só preciso continuar acelerando."** 🏁
+
+---
+
+## 🚦 CURRENT STATUS
+
+```text
+[████████░░░░░░░░░░░░] 40%
+
+Learning → Building → Improving
+```
+
+---
+
+## 🏎️ NEXT DESTINATION
+
+🎯 Desenvolver projetos cada vez mais completos
+🎯 Aprender novas tecnologias
+🎯 Construir meu portfólio
+🎯 Conseguir minha primeira oportunidade na área de tecnologia
+
+---
+
+### 🔥 KEEP BUILDING. KEEP LEARNING. KEEP MOVING.
+
+`<code />` + `🚗` + `☕` = evolução
