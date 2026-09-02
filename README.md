@@ -1,3 +1,15 @@
+<img width="1536" height="1024" alt="ChatGPT Image 2 de set  de 2026, 20_13_31" src="https://github.com/user-attachments/assets/524c1123-cec6-4e6b-b066-d37bb6ec181a" />
+
+
+
+
+
+
+
+
+
+
+
 # 🏁 Matheus Alves Ribeiro
 
 ### `ADS Student | Developer in Progress | Car Enthusiast`
