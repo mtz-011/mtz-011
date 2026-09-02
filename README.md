@@ -24,9 +24,9 @@ Projetos que estou desenvolvendo durante minha jornada:
 
 | Projeto                | Tecnologia | Status                |
 | ---------------------- | ---------- | --------------------- |
-| 🧮 Calculadora         | JavaScript | 🔧 Em desenvolvimento |
-| 🌐 Meu primeiro site   | HTML + CSS | ✅ Concluído           |
-| 🚘 Sistema de cadastro | Python     | 🔧 Em desenvolvimento |
+| 🧮 Calculadora         | JavaScript | 📚 Estudando |
+| 🌐 Meu primeiro site   | HTML + CSS | 📚 Estudando           |
+| 🚘 Sistema de cadastro | Python     | 📚 Estudando |
 | 🗄️ Banco de dados     | SQL        | 📚 Estudando          |
 
 ---
